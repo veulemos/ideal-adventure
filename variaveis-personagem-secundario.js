@@ -10,7 +10,7 @@ let mostra_o_secundario = $('#card-jogador-secundario');
  vai adicionar ao time do seu colega, altere
  o valor da variável abaixo para 'display', 'block'.
 */
-mostra_o_secundario.css('display', 'none');
+mostra_o_secundario.css('display', 'block');
 
 /*
  Aqui foram definidas as variáveis do personagem secundário. Não precisa mexer aqui. :)
